@@ -1,0 +1,1 @@
+# POC_Azure_IA_Vision
